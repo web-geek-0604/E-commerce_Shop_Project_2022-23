@@ -1,1 +1,1 @@
-This is my finest project since now and I'm very proud for doing it. It is web application for online store with IT products. The application consists of two parts: user and administrative. It was created using PHP, JavaScript, jQuery, HTML, CSS, MySQL and it's non-responsive. It was also created on Linux. 
+This is my finest project since now and I'm very proud for doing it. It is web application for online store with IT products. The application consists of two parts: user and administrative. It was created using PHP, JavaScript, jQuery, HTML, CSS, MySQL. 
